@@ -45,8 +45,8 @@ You can use the RESTful API to talk to InfluxDB on port `8086`. Use the new `inf
   ```
   docker exec -it <influxdb-container-name> /usr/bin/influx
   Visit https://enterprise.influxdata.com to register for updates, InfluxDB server management, and monitoring.
-  Connected to http://localhost:8086 version 1.3.4
-  InfluxDB shell 1.3.4
+  Connected to http://localhost:8086 version 1.3.7
+  InfluxDB shell 1.3.7
   >
   ```
 
